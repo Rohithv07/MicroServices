@@ -1,7 +1,3 @@
-# MicroServices
-Learning on Micro Services from the Udemy Course
-
-
 ## Microservices
 
 ### Step 1 and 2
