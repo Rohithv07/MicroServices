@@ -2,7 +2,7 @@
 Learning on Micro Services from the Udemy Course
 
 
-## Microservices
+## Microservices - Currency Converter and Exchange Service
 
 ### Step 1 and 2
 - Creating a simple rest web service limit
